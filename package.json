@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lyaunzbe/mocha-wev-reporter.git"
+    "url": "git://github.com/lyaunzbe/mocha-web-reporter.git"
   },
   "readme": "mocha-web-reporter\n===================\n",
   "readmeFilename": "Readme.md",
