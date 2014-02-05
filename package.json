@@ -1,20 +1,21 @@
 {
-  "name": "mocha-html-reporter",
+  "name": "mocha-web-reporter",
   "description": "HTML reporter for Mocha",
   "version": "0.0.1",
   "author": {
-    "name": "Hermann pencolé",
-    "email": "hermann.pencole@gmail.com"
+    "name": "Ben Lyaunzon",
+    "email": "lyaunzon.b@gmail.com"
   },
   "keywords": [
     "mocha",
     "reporter",
-    "html"
+    "html",
+    "web"
   ],
-  "licenses": "WTFPL",
+  "licenses": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "1.6.x"
+    "mocha": "latest"
   },
   "directories": {
     "lib": "./lib"
@@ -28,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/HermannPencole/mocha-html-reporter.git"
+    "url": "git://github.com/lyaunzbe/mocha-wev-reporter.git"
   },
-  "readme": "mocha-html-reporter\n===================\n",
+  "readme": "mocha-web-reporter\n===================\n",
   "readmeFilename": "Readme.md",
-  "_id": "mocha-html-reporter@0.0.1",
-  "_from": "mocha-html-reporter@*"
+  "_id": "mocha-web-reporter@0.0.1",
+  "_from": "mocha-web-reporter@*"
 }
